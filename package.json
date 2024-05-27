@@ -1,7 +1,7 @@
 {
-    "name": "rodrigo.dornelles.github.io",
+    "name": "llgasparino.github",
     "version": "1.0.0",
-    "description": "Rodrigo Dornelles CV",
+    "description": "Luiz Gasparino CV",
     "scripts": {
       "start": "eleventy --serve",
       "build": "eleventy"
