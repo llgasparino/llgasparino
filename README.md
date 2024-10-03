@@ -1,7 +1,4 @@
----
-layout: template.liquid
-permalink: /
----
+
 
 # Luiz Gasparino
 
