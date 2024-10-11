@@ -2,7 +2,7 @@
 
 # Luiz Gasparino
 
-* **Email:** [luizgasparino48@gmail.com](mailto:luizgasparino48@gmail.com)
+* **Email:** [luiz.gasparino.pro@gmail.com](mailto:luiz.gasparino.pro@gmail.com)
 * **Linkedin:** [linkedin.com/in/llgasparino](https://linkedin.com/in/llgasparino)
 * **Whattsapp / Fone:** [+55 (41) 995966299](https://wa.me/+5541995966299)
 
