@@ -51,11 +51,11 @@ Lógica da programação, SQL, C#, HTML, CSS, JAVASCRIPT, JAVA, POO, PYTHON, Ges
 
 ### Data Analysis Professional Certificate - 01/2024 a 05/2024<br>Google
 
-Qualidade e produtividade, Cabeamento, Manutenção de computadores, Suporte de TI, IPv4, Suporte de hardware de TI, Cibersegurança, Redes de computadores, Tecnologias de rede sem fio, Administração de redes.
+Análise de dados, Analytical Skills, SQL, Data Analysis, Visualização de dados, Modelagem de dados, Estudos de caso, Python, Power BI, Tableau, Excel.
 
 ### IT Support Professional Certificate - 01/2024 a 04/2024<br>Google
 
-Análise de dados, Analytical Skills, SQL, Data Analysis, Visualização de dados, Modelagem de dados, Estudos de caso, Python, Power BI, Tableau, Excel.
+Qualidade e produtividade, Cabeamento, Manutenção de computadores, Suporte de TI, IPv4, Suporte de hardware de TI, Cibersegurança, Redes de computadores, Tecnologias de rede sem fio, Administração de redes.
 
 ### Junior cibersecurity Analyst - 04/2024 a 07/2024<br>Cisco
 
