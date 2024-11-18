@@ -1,4 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" 
+       alt="Junior Cybersecurity Analyst Badge" width="200">
+  <img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" 
+       alt="Google Data Analyst Certificate" width="200">
+  <img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" 
+       alt="IT Support Certificate" width="200">
+</div>
+
 
 <p align="left"> 
   Meu nome é Luiz Gasparino e estou estudando Análise e Desenvolvimento de Sistemas
