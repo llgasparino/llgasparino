@@ -22,22 +22,23 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llgasparino&theme=dracula&show_icons=true" />
-</a>
-
 <p align="left">
   📕 Livro do momento: Entendendo Algoritimos
 </p>
 
+<a href="https://github.com/llgasparino" title="Perfil do Luiz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llgasparino&theme=dark&show_icons=true" />
+</a>
+
+
+
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="mailto:luiz.gasparino.pro@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luiz.gasparino.pro@gmail.com" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/llgasparino/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llgasparino/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/llgasparino/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/llgasparino/" alt="Instagram"/></a>
 </p>
 
