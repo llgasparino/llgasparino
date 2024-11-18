@@ -1,9 +1,9 @@
 <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" 
+  <img href="https://www.credly.com/badges/30c54c52-2ca7-48e3-9a6a-6efe6d1ba87d" src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" 
        alt="Junior Cybersecurity Analyst Badge" width="200">
-  <img src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" 
+  <img href="https://www.credly.com/badges/85172a6c-d490-48b0-a95d-44316c117213" src="https://images.credly.com/size/340x340/images/975f4562-83b7-4652-9cd8-4490a68441be/image.png" 
        alt="Google Data Analyst Certificate" width="200">
-  <img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" 
+  <img href="https://www.credly.com/badges/54f3239b-b2a7-41b6-826d-f3e9b0288cbd" src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" 
        alt="IT Support Certificate" width="200">
 </div>
 
