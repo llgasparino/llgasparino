@@ -22,6 +22,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![YAML](https://img.shields.io/badge/-YAML-333333?style=flat&logo=yaml)
 
 **DevOps**
 
@@ -30,6 +32,8 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 <p align="left">
   📕 Livro do momento: Entendendo Algoritimos
 </p>
