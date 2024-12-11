@@ -36,23 +36,31 @@
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
-<p align="left">
-  📕 Livro do momento: Entendendo Algoritimos
-</p>
+
+##### 📕 Livro do momento: Entendendo Algoritimos
+
+<details>
+
+<summary>My GitHub Stats</summary>
 
 <a href="https://github.com/llgasparino" title="Perfil do Luiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llgasparino&theme=dark&show_icons=true" />
 </a>
+</details>
 
+## Formate seu computador! 
+<a href="https://gasparino.tech" title="Site da minha empresa">
+  <img height="120px" src="https://lh3.googleusercontent.com/a-/ALV-UjXbkAkNJAW3-TLr7eFnrC3W_-2WCwjpFds1o5qIGxp44Ocx4ZaS=s265-w265-h265" />
 
+## Contatos
 
+  <p align="left">
+    <a href="mailto:luiz@gasparino.tech" title="Email">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mailto:luiz@gasparino.tech" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/llgasparino/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llgasparino/" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/llgasparino/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/llgasparino/" alt="Instagram"/></a>
+  </p>
 
-<p align="left">
-  <a href="mailto:luiz.gasparino.pro@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luiz.gasparino.pro@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/llgasparino/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llgasparino/" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/llgasparino/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/llgasparino/" alt="Instagram"/></a>
-</p>
-
+###### 💾 EOF
