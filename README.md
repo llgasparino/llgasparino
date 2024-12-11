@@ -49,7 +49,7 @@
 </details>
 
 ## Formate seu computador! 
-<a href="https://gasparino.tech" title="Site da minha empresa">
+<a href="https://gasparino.tech" target="_blank" rel="noopener noreferrer" title="Site da minha empresa">
   <img height="120px" src="https://lh3.googleusercontent.com/a-/ALV-UjXbkAkNJAW3-TLr7eFnrC3W_-2WCwjpFds1o5qIGxp44Ocx4ZaS=s265-w265-h265" />
 
 ## Contatos
