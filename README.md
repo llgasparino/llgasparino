@@ -5,6 +5,8 @@
        alt="Google Data Analyst Certificate" width="200">
   <img href="https://www.credly.com/badges/54f3239b-b2a7-41b6-826d-f3e9b0288cbd" src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" 
        alt="IT Support Certificate" width="200">
+  <img href="https://www.credly.com/badges/c387d3d0-9797-4525-8010-77c498fbe547/public_url" src="https://images.credly.com/size/340x340/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" 
+       alt="IT Support Certificate" width="200">
 </div>
 
 
